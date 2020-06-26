@@ -19,6 +19,12 @@ void FunctionForTestingBranch(){
 	//This is function for testing process
 }
 
+void emptyFunction(){
+	//b
+	//c
+	//d
+}
+
 int main(){
 //modified just for example
 	printf("Hello World !! \n");
