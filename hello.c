@@ -11,7 +11,7 @@ void doWhatYouLike(){
 	printf("Doing what i like ");
 	printf("Doing what i like ");
 }
-void someUselessFunction(){
+void somethingNew(){
 
 }
 int main(){

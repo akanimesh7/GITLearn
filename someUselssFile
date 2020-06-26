@@ -1,7 +1,0 @@
-This is useless stuff in useless file 
-
-#include <stdio.h>
-
-int main(){
-	printf("WORLD is USELESs");
-}
