@@ -11,6 +11,9 @@ void doWhatYouLike(){
 	printf("Doing what i like ");
 	printf("Doing what i like ");
 }
+void someUselessFunction(){
+
+}
 int main(){
 //modified just for example
 	printf("Hello World !! \n");
