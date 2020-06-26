@@ -20,10 +20,10 @@ void FunctionForTestingBranch(){
 }
 
 void emptyFunction(){
-	//a
 	//b
 	//c
 }
+
 int main(){
 //modified just for example
 	printf("Hello World !! \n");
