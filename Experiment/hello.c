@@ -14,6 +14,11 @@ void doWhatYouLike(){
 void somethingNew(){
 
 }
+
+void FunctionForTestingBranch(){
+	//This is function for testing process
+}
+
 int main(){
 //modified just for example
 	printf("Hello World !! \n");
