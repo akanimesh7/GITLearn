@@ -5,3 +5,7 @@ void quadSolver(int a, int b, int c){
 void linearSolver(int a,int b,int c,int d){
 	//Solves linear Equation
 }
+
+void cubicSolver(int a, int b, int c){
+	//Would solve cubic Eqn
+}
